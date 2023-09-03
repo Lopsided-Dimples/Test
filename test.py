@@ -17,6 +17,9 @@ gradebook.append(new_grades)
 gradebook.append(["visual arts", 93])
 #print(gradebook)
 
+gradebook.append(["coding", 100])
+#print(gradebook)
+
 gradebook[-1][1] = 97
 #print(gradebook)
 
